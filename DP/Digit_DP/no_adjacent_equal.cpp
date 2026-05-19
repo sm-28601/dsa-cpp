@@ -1,3 +1,7 @@
+// Problem: Count numbers in the range [a, b] that do not have adjacent equal digits.
+// link - https://cses.fi/problemset/task/2220
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
